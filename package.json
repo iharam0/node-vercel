@@ -1,0 +1,22 @@
+{
+  "name": "vercel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iharam0/node-vercel.git"
+  },
+  "author": "iharam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iharam0/node-vercel/issues"
+  },
+  "homepage": "https://github.com/iharam0/node-vercel#readme",
+  "dependencies": {
+    "genius-lyrics": "^4.3.8"
+  }
+}
